@@ -18,6 +18,5 @@ Game mechanics:
 * The magazine's got seven bullets, then Jimmy's gotta reload
 * Contact with zombies is deadly
 
-## Background
-Zombie Hunter is a evolution of my first JS game [I hate Zombies](https://github.com/Milchreis/I-Hate-Zombies) and was especially developed for android. The game is still available on [Google Play](https://play.google.com/store/apps/details?id=de.milchreis.zombiehunter).
+
 
